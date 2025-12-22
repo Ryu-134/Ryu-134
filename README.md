@@ -62,27 +62,4 @@
   <img alt="ImGui" src="https://img.shields.io/badge/-ImGui-0097CF?style=flat-square&logo=opengl&logoColor=white" />
 </p>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" alt="GitHub Stats">
-
-<br />
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://metrics.lecoq.io/Ryu-134?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FLos_Angeles"
-    alt="GitHub Metrics"
-  />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats"> </div>
