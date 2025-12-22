@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hello World, I'm Casey! 👋</h1>
-<h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools · open to internships</h3>
+<h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
+<img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 30px; vertical-align: middle;"/>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;6%2B+years+of+freelancing+experience" width="84%" />
+
 
 ---
 ## I'm currently learning:
@@ -18,13 +21,13 @@
 ---
 ## Languages I Code with:
 
-<b>Systems / Low-level</b>
+#### Systems / Low-level:
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<b>Application / Scripting</b>
+#### Application / Scripting:
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -36,21 +39,21 @@
 ---
 ## Tools I Code with:
 
-### Web / Application:
+#### Web / Application:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-5A67D8?style=flat-square&logo=shadcn&logoColor=white" />
 </p>
 
-### DevOps / Tooling:
+#### DevOps / Tooling:
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-### Graphics / Rendering:
+#### Graphics / Rendering:
 <p>
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img alt="GLFW" src="https://img.shields.io/badge/-GLFW-008080?style=flat-square&logo=opengl&logoColor=white" />
@@ -64,7 +67,7 @@
     <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="39%"/>
 </div>
 
-
+--- 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/casey-dane/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:caseydane134@gmail.com)
