@@ -62,6 +62,6 @@
 <div>
 
 <div>
-    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="49%"/>
-    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="49%"/>
+    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="51%"/>
+    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="39%"/>
 </div>
