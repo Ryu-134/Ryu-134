@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Job%20Status-Actively%20Seeking-brightgreen?style=for-the-badge"alt="Job Status: Actively Seeking"
   />
 </h3>
-<p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="350" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="300" /> </p>
 
 
 ---
