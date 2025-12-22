@@ -62,30 +62,21 @@
   <img alt="ImGui" src="https://img.shields.io/badge/-ImGui-0097CF?style=flat-square&logo=opengl&logoColor=white" />
 </p>
 
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats-ryu-134.vercel.app/?user=Ryu-134&theme=dark"
-    alt="GitHub Streak"
-  />
-</div>
-
-
-
-<div align="center">
-<img
-    src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
-    alt="Top Languages"
-    width="49%"
-/>
-
-
-<img
-    src="https://github-readme-stats-ryu-134.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
-    alt="GitHub Stats"
-    width="49%"
-/>
-</div>
-
-<br />
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
