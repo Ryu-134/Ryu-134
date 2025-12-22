@@ -65,7 +65,7 @@
 
 <div align="center">
 <img
-src="https://streak-stats.demolab.com/?user=Ryu-134&theme=dark&hide_border=false"
+src="https://streak-stats.demolab.com/?user=Ryu-134"
 alt="GitHub Streak"
 />
 </div>
