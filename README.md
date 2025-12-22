@@ -65,10 +65,13 @@
 
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ryu-134&theme=dark&hide_border=false"
-    alt="GitHub Streak Stats"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Ryu-134&theme=dark&hide_border=false"
+      alt="GitHub Streak"
+    />
+  </a>
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
     alt="GitHub Stats"
