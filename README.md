@@ -2,8 +2,9 @@
 <h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
 <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 30px; vertical-align: middle;"/>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;6%2B+years+of+freelancing+experience" width="84%" />
-
+<p align="center">
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="300" />
+</p>
 
 ---
 ## I'm currently learning:
