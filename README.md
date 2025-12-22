@@ -63,18 +63,19 @@
 </p>
 
 
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=Ryu-134&theme=dark&hide_border=false"
       alt="GitHub Streak"
+      width="49%"
     />
   </a>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
+    src="https://YOUR_VERCEL_DOMAIN/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
     alt="GitHub Stats"
+    width="49%"
   />
 </div>
 
@@ -82,10 +83,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
+    src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
     alt="Top Languages"
   />
 </div>
-
-<br />
-
