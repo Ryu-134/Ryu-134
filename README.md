@@ -86,9 +86,3 @@
 
 <br />
 
-<div align="center">
-  <img
-    src="https://metrics.lecoq.io/Ryu-134?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FLos_Angeles"
-    alt="GitHub Metrics"
-  />
-</div>
