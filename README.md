@@ -64,10 +64,19 @@
 
 
 <div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ryu-134&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
+</div>
+
+
+
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=Ryu-134&theme=dark&hide_border=false"
-      alt="GitHub Streak"
+        src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
+        alt="Top Languages"
       width="49%"
     />
   </a>
@@ -80,12 +89,4 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
-</div>
-
 
