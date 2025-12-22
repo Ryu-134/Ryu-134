@@ -62,18 +62,12 @@
   <img alt="ImGui" src="https://img.shields.io/badge/-ImGui-0097CF?style=flat-square&logo=opengl&logoColor=white" />
 </p>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu-134&theme=dark&hide_border=false"
-    alt="GitHub Streak Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
-    alt="GitHub Stats"
-  />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark" alt="GitHub Stats">
 
 <br />
 
