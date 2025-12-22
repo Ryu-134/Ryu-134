@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
   Hello World, I'm Casey!
 </h1>
-<h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
-<h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
-<h3 align="center">
+<h2 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h2>
+<h2 align="center">Portfolio → https://casey-dane.vercel.app/</h2>
+<h2 align="center">
   <img src="https://img.shields.io/badge/Job%20Status-Actively%20Seeking-brightgreen?style=for-the-badge"alt="Job Status: Actively Seeking"
   />
-</h3>
+</h2>
 <p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" /> </p>
 
 
