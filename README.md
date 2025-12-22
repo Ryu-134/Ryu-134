@@ -73,7 +73,7 @@
   </a>
 
   <img
-    src="https://YOUR_VERCEL_DOMAIN/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
+    src="https://github-readme-stats-ryu-134.vercel.app/api?username=Ryu-134&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"
     alt="GitHub Stats"
     width="49%"
   />
@@ -83,7 +83,9 @@
 
 <div align="center">
   <img
-    src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
+    src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark"
     alt="Top Languages"
   />
 </div>
+
+
