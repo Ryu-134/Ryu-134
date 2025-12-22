@@ -64,10 +64,10 @@
 
 
 <div align="center">
-<img
-src="https://streak-stats.demolab.com/?user=Ryu-134"
-alt="GitHub Streak"
-/>
+  <img
+    src="https://github-readme-streak-stats-ryu-134.vercel.app/?user=Ryu-134&theme=dark"
+    alt="GitHub Streak"
+  />
 </div>
 
 
