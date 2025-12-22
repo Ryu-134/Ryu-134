@@ -1,10 +1,14 @@
-<h1 align="center">👋 Hello World, I'm Casey! 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
+  Hello World, I'm Casey!
+</h1>
 <h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
-<img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 30px; vertical-align: middle;"/>
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 28px; vertical-align: middle;"/>
+</div>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
-<p align="center">
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="300" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="300" /> </p>
+
 
 ---
 ## I'm currently learning:
@@ -63,12 +67,30 @@
 </p>
 
 
+---
+### Fun Stats:
 <div>
     <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="55%"/>
     <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="39%"/>
 </div>
 
+
 --- 
+### Recent Projects:
+
+
+
+
+
+
+
+---
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/casey-dane/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:caseydane134@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/casey-dane/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:caseydane134@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
