@@ -12,7 +12,7 @@
 
 
 ---
-## I'm currently learning:
+# I'm currently learning:
 
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
@@ -25,15 +25,15 @@
 
 
 ---
-## Languages I Code with:
+# Languages I Code with:
 
-#### Systems / Low-level:
+### Systems / Low-level:
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-#### Application / Scripting:
+### Application / Scripting:
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -43,23 +43,23 @@
 
 
 ---
-## Tools I Code with:
+# Tools I Code with:
 
-#### Web / Application:
+### Web / Application:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-5A67D8?style=flat-square&logo=shadcn&logoColor=white" />
 </p>
 
-#### DevOps / Tooling:
+### DevOps / Tooling:
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-#### Graphics / Rendering:
+### Graphics / Rendering:
 <p>
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img alt="GLFW" src="https://img.shields.io/badge/-GLFW-008080?style=flat-square&logo=opengl&logoColor=white" />
@@ -69,7 +69,7 @@
 
 
 ---
-### Fun Stats:
+# Fun Stats:
 <div>
     <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="55%"/>
     <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="39%"/>
@@ -77,7 +77,7 @@
 
 
 --- 
-### Recent Projects:
+# Recent Projects:
 
 
 
@@ -86,7 +86,7 @@
 
 
 ---
-### Connect with me:
+# Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/casey-dane/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" />
