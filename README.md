@@ -9,69 +9,70 @@
 </h3>
 <p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" /> </p>
 
-
 ---
 ## I'm currently learning:
 
 <p>
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="SvelteKit" src="https://img.shields.io/badge/-SvelteKit-4A4A55?style=flat-square&logo=sveltekit&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=C23300" />
+  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=sveltekit&logoColor=white&labelColor=2F2F36" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F4C3A" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B3C5D" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A3C6E" />
 </p>
-
 
 ---
 ## Languages I Code with:
 
 #### Systems / Low-level:
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=6B7C93" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=003B6F" />
 </p>
 
 #### Application / Scripting:
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B03A1C" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=104E8B" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=005A9C" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=C8A800" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=24557E" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=004E64" />
 </p>
-
 
 ---
 ## Tools I Code with:
 
 #### Web / Application:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-5A67D8?style=flat-square&logo=shadcn&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1A1A1A" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=013B66" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2E5E2B" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-5A67D8?style=for-the-badge&logo=shadcn&logoColor=white&labelColor=3B46A5" />
 </p>
 
 #### DevOps / Tooling:
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=C8A800" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=9E2F1F" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1256A3" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
 </p>
 
 #### Graphics / Rendering:
 <p>
-  <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-  <img alt="GLFW" src="https://img.shields.io/badge/-GLFW-008080?style=flat-square&logo=opengl&logoColor=white" />
-  <img alt="SDL2" src="https://img.shields.io/badge/-SDL2-4EAA25?style=flat-square&logo=opengl&logoColor=white" />
-  <img alt="ImGui" src="https://img.shields.io/badge/-ImGui-0097CF?style=flat-square&logo=opengl&logoColor=white" />
+  <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2F5D77" />
+  <img alt="GLFW" src="https://img.shields.io/badge/GLFW-008080?style=for-the-badge&logo=opengl&logoColor=white&labelColor=005454" />
+  <img alt="SDL2" src="https://img.shields.io/badge/SDL2-4EAA25?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2E6B16" />
+  <img alt="ImGui" src="https://img.shields.io/badge/ImGui-0097CF?style=for-the-badge&logo=opengl&logoColor=white&labelColor=00668C" />
 </p>
 
 
 ---
 ## Fun Stats:
 <div>
-    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="55%"/>
-    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="39%"/>
+    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="57%"/>
+    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="41%"/>
 </div>
 
 
