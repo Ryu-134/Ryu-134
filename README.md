@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
   Hello World, I'm Casey!
 </h1>
-<h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
+<h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who's passionate about building web apps, GUI tools, and embedded systems. </h3>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
 <h3 align="center">
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 28px; vertical-align: middle;"/>
