@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/casey-dane/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="40" style="height: 40px; vertical-align: middle;" /></a>&nbsp;
   <a href="mailto:caseydane134@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="40" style="height: 40px; vertical-align: middle;" /></a>
 
-  <br /> <br />
   
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" height="28" style="height: 28px; vertical-align: middle;"/>
 </div>
