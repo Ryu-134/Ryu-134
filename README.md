@@ -2,13 +2,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
   Hello World, I'm Casey!
 </h1>
+
 <h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 28px; vertical-align: middle;"/>
-</h3>
-<p align="center"> <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" /> </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/casey-dane/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="40" />
+  </a>
+  
+  <a href="mailto:caseydane134@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="40" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" height="28"/>
+</p>
+
+<p align="center"> 
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" /> 
+</p>
 ---
 ## I'm currently learning:
 
@@ -79,19 +93,33 @@
 --- 
 ## Recent Projects:
 
+### 1. [Algo Racer](https://github.com/Ryu-134/AlgoRacer)
+**Multi-Sensory Sorting Algorithm Comparator & Auditory Engine** 
+* A high-performance visualizer benchmarking 16+ sorting algorithms individually or concurrently via "Race Mode".
 
-
-
-
-
-
----
-## Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/casey-dane/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="mailto:caseydane134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pygame-Engine-green?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame">
+  <img src="https://img.shields.io/badge/NumPy-Audio_Synthesis-orange?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="License">
+  <br /> <br />
+  <img src="https://github.com/Ryu-134/AlgoRacer/blob/main/assets/demo_intro.gif?raw=true" width="400" alt="Algo Racer Demo" />
 </p>
+
+<br />
+
+### 2. [Path Visualizer](https://github.com/Ryu-134/Path-Visualizer)
+**Interactive Graph Algorithm Engine & Pathfinding Tool** 
+* An MVC-architected application that visualizes Dijkstra, A*, BFS, DFS, and MST algorithms on custom floorplans.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge" alt="Tkinter">
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Architecture-MVC-purple?style=for-the-badge" alt="Architecture">
+  <br /> <br />
+  <img src="https://github.com/Ryu-134/Path-Visualizer/blob/main/assets/demo_intro.gif?raw=true" width="500" alt="Path Visualizer Demo" />
+</p>
+
+
+
