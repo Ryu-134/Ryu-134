@@ -7,12 +7,12 @@
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/casey-dane/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="38" style="height: 38px; vertical-align: middle;" /></a>&nbsp;
-  <a href="mailto:caseydane134@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="38" style="height: 38px; vertical-align: middle;" /></a>
+  <a href="https://www.linkedin.com/in/casey-dane/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="36" style="height: 36px; vertical-align: middle;" /></a>&nbsp;
+  <a href="mailto:caseydane134@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="36" style="height: 36px; vertical-align: middle;" /></a>
 </div>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="5" width="1" style="height: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="3" width="1" style="height: 3px;"/>
 </div>
 
 <div align="center">
