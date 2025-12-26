@@ -37,6 +37,7 @@
   &nbsp;
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A3C6E" />
 </p>
+<br /> <br />
 
 ---
 ## Languages I Code with:
@@ -62,6 +63,7 @@
   &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=004E64" />
 </p>
+<br /> <br />
 
 ---
 ## Tools I Code with:
@@ -99,6 +101,7 @@
   &nbsp;
   <img alt="ImGui" src="https://img.shields.io/badge/ImGui-0097CF?style=for-the-badge&logo=opengl&logoColor=white&labelColor=00668C" />
 </p>
+<br /> <br />
 
 --- 
 ## Recent Projects:
@@ -128,7 +131,7 @@
   <br /> <br />
   <img src="https://github.com/Ryu-134/Path-Visualizer/blob/main/assets/demo_intro.gif?raw=true" width="400" alt="Path Visualizer Demo" />
 </p>
-
+<br /> <br />
 
 ---
 ## Fun Stats:
@@ -137,5 +140,6 @@
     &nbsp;
     <img src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="41%"/>
 </div>
+<br /> <br />
 
 ---
