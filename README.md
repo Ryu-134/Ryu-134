@@ -106,7 +106,7 @@
 --- 
 ## Recent Projects:
 
-### [Algo Racer](https://github.com/Ryu-134/AlgoRacer) 
+### [Algo Racer](https://github.com/Ryu-134/algo-racer) 
 * A high-performance visualizer benchmarking 16+ sorting algorithms individually or concurrently via "Race Mode".
 
 <p align="center">
