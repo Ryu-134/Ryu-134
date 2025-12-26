@@ -6,21 +6,18 @@
 <h3 align="center">I'm a CS undergrad in LA at Cal State Fullerton who likes building web apps and graphics tools </h3>
 <h3 align="center">Portfolio → https://casey-dane.vercel.app/</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/casey-dane/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="50" />
-  </a>
-  &nbsp;
-  <a href="mailto:caseydane134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="50" />
-  </a>
-  <br /> <br />
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 28px; vertical-align: middle;/>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/casey-dane/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="40" style="height: 40px; vertical-align: middle;" /></a>&nbsp;
+  <a href="mailto:caseydane134@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="40" style="height: 40px; vertical-align: middle;" /></a>
 
-<p align="center"> 
+  <br /> <br />
+  
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" height="28" style="height: 28px; vertical-align: middle;"/>
+</div>
+
+<div align="center"> 
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" /> 
-</p>
+</div>
 
 ---
 ## I'm currently learning:
