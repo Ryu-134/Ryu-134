@@ -24,7 +24,7 @@
 </div>
 
 ---
-# I'm currently learning:
+## I'm currently learning:
 
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=C23300" />
