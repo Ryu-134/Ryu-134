@@ -37,9 +37,10 @@
   &nbsp;
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A3C6E" />
 </p>
-<br /> <br />
 
 ---
+<br /> <br />
+
 ## Languages I Code with:
 
 ### Systems / Low-level:
@@ -68,7 +69,7 @@
 ---
 ## Tools I Code with:
 
-#### Web / Application:
+### Web / Application:
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" />
   &nbsp;
