@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="5" width="1" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="5" width="1" style="height: 5px;"/>
 </div>
 
 <div align="center">
