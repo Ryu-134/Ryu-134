@@ -42,14 +42,14 @@
 ---
 ## Languages I Code with:
 
-#### Systems / Low-level:
+### Systems / Low-level:
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=6B7C93" />
   &nbsp;
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=003B6F" />
 </p>
 
-#### Application / Scripting:
+### Application / Scripting:
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B03A1C" />
   &nbsp;
@@ -80,7 +80,7 @@
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-5A67D8?style=for-the-badge&logo=shadcn&logoColor=white&labelColor=3B46A5" />
 </p>
 
-#### DevOps / Tooling:
+### DevOps / Tooling:
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=C8A800" />
   &nbsp;
@@ -91,7 +91,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
 </p>
 
-#### Graphics / Rendering:
+### Graphics / Rendering:
 <p>
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2F5D77" />
   &nbsp;
