@@ -100,21 +100,10 @@
   <img alt="ImGui" src="https://img.shields.io/badge/ImGui-0097CF?style=for-the-badge&logo=opengl&logoColor=white&labelColor=00668C" />
 </p>
 
-
----
-## Fun Stats:
-<div>
-    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="57%"/>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="41%"/>
-</div>
-
-
 --- 
 ## Recent Projects:
 
-### 1. [Algo Racer](https://github.com/Ryu-134/AlgoRacer)
-##### Multi-Sensory Sorting Algorithm Comparator & Auditory Engine
+### [Algo Racer](https://github.com/Ryu-134/AlgoRacer) 
 * A high-performance visualizer benchmarking 16+ sorting algorithms individually or concurrently via "Race Mode".
 
 <p align="center">
@@ -128,8 +117,7 @@
 
 <br />
 
-### 2. [Path Visualizer](https://github.com/Ryu-134/Path-Visualizer)
-##### Interactive Graph Algorithm Engine & Pathfinding Tool
+### [Path Visualizer](https://github.com/Ryu-134/Path-Visualizer) 
 * An MVC-architected application that visualizes Dijkstra, A*, BFS, DFS, and MST algorithms on custom floorplans.
 
 <p align="center">
@@ -141,5 +129,13 @@
   <img src="https://github.com/Ryu-134/Path-Visualizer/blob/main/assets/demo_intro.gif?raw=true" width="400" alt="Path Visualizer Demo" />
 </p>
 
----
 
+---
+## Fun Stats:
+<div>
+    <img align="center" src="https://github-readme-streak-stats-three-mu-15.vercel.app/?user=Ryu-134&theme=dark" width="57%"/>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats-ryu-134.vercel.app/api/top-langs/?username=Ryu-134&layout=compact&theme=dark" width="41%"/>
+</div>
+
+---
