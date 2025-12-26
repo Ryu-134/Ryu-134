@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/casey-dane/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&&logo=LinkedIn&logoColor=white" height="65" />
   </a>
   &nbsp;
   <a href="mailto:caseydane134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="65" />
   </a>
   <br /> <br />
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" height="28"/>
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" height="48"/>
 </p>
 
 <p align="center"> 
@@ -120,5 +120,5 @@
   <img src="https://github.com/Ryu-134/Path-Visualizer/blob/main/assets/demo_intro.gif?raw=true" width="400" alt="Path Visualizer Demo" />
 </p>
 
-
+---
 
