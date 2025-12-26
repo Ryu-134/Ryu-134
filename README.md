@@ -37,10 +37,9 @@
   &nbsp;
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A3C6E" />
 </p>
-
----
 <br /> <br />
 
+---
 ## Languages I Code with:
 
 ### Systems / Low-level:
